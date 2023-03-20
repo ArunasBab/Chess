@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table {
+    margin: 20px auto;
+}
+td {
+    width: 100px;
+    height: 100px;
+    background: #f25612;
+    margin: 20px;
+    border: 15px solid white;  
+}
+
+div {
+    width: 150px;
+    height: 150px;
+    background: #f05712;
+    margin: 6px;
+    border: 40px solid #2cd64d;
+}
+
+th {
+    width: 100px;
+    height: 100px;
+    background: #2cd64d;
+    margin: 20px;
+    border: 15px solid white; 
+}
+
+main {
+    width: 150px;
+    height: 150px;
+    background: #2cd64d;
+    margin: 6px;
+    border: 40px solid #f05712;
+}
